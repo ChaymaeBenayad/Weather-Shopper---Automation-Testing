@@ -1,0 +1,9 @@
+# IntelliJ
+out/
+.idea/
+
+# Maven template
+target/
+
+# VSCode
+.vscode/
